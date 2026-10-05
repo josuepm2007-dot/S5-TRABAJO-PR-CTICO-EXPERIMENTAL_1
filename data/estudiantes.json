@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "nombre": "Josue",
+    "apellido": "Parrales",
+    "email": "jparrales@gmail.com",
+    "carnet": "jparralesm14",
+    "notas": {
+      "Mate": [
+        18.0
+      ],
+      "Fisica": [
+        19.0
+      ]
+    },
+    "materias": [
+      "Fisica",
+      "Mate"
+    ]
+  }
+]
